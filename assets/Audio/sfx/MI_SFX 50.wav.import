@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/MI_SFX 50.wav-9e237e4743202fa4859b97f4a7478564.sample"
+
+[deps]
+
+source_file="res://assets/Audio/sfx/MI_SFX 50.wav"
+dest_files=[ "res://.import/MI_SFX 50.wav-9e237e4743202fa4859b97f4a7478564.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

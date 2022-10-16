@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/MI_SFX 33.mp3-edd8e2f2a9ddca43def223b34a159084.mp3str"
+
+[deps]
+
+source_file="res://assets/Audio/sfx/MI_SFX 33.mp3"
+dest_files=[ "res://.import/MI_SFX 33.mp3-edd8e2f2a9ddca43def223b34a159084.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
